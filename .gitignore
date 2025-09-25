@@ -1,0 +1,28 @@
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+venv/
+.venv/
+env/
+.env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+htmlcov/
+.coverage
+.mypy_cache/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
